@@ -22,7 +22,7 @@ Gå tillbaka till designen ni valde förra veckan och analysera dess styling. G�
 
 1. Skapa taggarna `<style></style>` direkt i HTML-filen. Lägg taggarna som sibling till `<body></body>`
 
-```
+```html
 </head>
   <style>
     .container {
@@ -34,7 +34,7 @@ Gå tillbaka till designen ni valde förra veckan och analysera dess styling. G�
 
 2. Skapa ett separat stylesheet - exempelvis `index.css` och `form.css`. Länka till dem i `<head></head>` i vardera HTML-fil.
 
-```
+```html
 <head>
   <link rel="stylesheet" href="index.css" />
 </head>
