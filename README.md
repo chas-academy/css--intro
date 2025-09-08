@@ -2,11 +2,9 @@
 
 Denna vecka ska vi fokusera på CSS, webbens stylingspråk. Det används till allt från att ändra typsnittstorlekar och bakgrundsfärg till att positionera och animera HTML-element. Utan styling hade webben sett ut som 90-talets uppsatser och textdokument som HTML ursprungligen skapades för.
 
-## 🧱 Kopiera över all HTML från förra veckan
+## 🧱 Tips: Kopiera README
 
-`index.html`
-
-`form.html`
+Skriv över readme:n i repon som ni jobbar i med denna för att ha den aktuella informationen lättare tillgänglig.
 
 ## 🕵️‍♂️ Analysera designen
 
