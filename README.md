@@ -54,7 +54,7 @@ Behövs det läggas till klasser på vissa element? Har du bara en av ett visst 
 
 ### Styla klickbara element med psuedo selectors
 
-- `hover:`, `active:` eller `focused:` state
+- `:hover`, `:active` eller `:focused` state
 - Implementera transitions
 
 ### Skapa en enkel animation med `@keyframes`
